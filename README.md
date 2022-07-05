@@ -9,8 +9,8 @@ homework for iOS
 Ссылка на курс https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 Домашняя работа повторил пройденый урок https://github.com/yaroslav0905/i_am_rich
-+ добавлдение элементов с library
++ добавление элементов с library
 + добавление изображений в Assets
 + оформление AppIcon
-+ запуск проекта на иметаторе устройства
++ запуск проекта на имитаторе устройства
 + запуск приложения на телефоне
